@@ -23,4 +23,4 @@ regional performance, and profitability insights.
 8. State wise sales ranking (RANK function)
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/bengalqueen/superstore-sales-analysis/blob/main/Superstore%20Dashboard.png)
